@@ -1,0 +1,21 @@
+name: dot_matrix_animated_counter
+description: A Flutter package for animated dot-matrix counters with controller support, ThemeExtension styling, grouping, negatives, and multiple animation styles.
+version: 0.2.0
+homepage: https://example.com
+repository: https://example.com
+issue_tracker: https://example.com/issues
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+  flutter: '>=3.22.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
