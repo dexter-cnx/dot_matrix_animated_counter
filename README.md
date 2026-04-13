@@ -1,5 +1,8 @@
 # dot_matrix_animated_counter
 
+[![Deploy example to GitHub Pages](https://github.com/dexter-cnx/dot_matrix_animated_counter/actions/workflows/github-pages.yml/badge.svg)](https://github.com/dexter-cnx/dot_matrix_animated_counter/actions/workflows/github-pages.yml)
+[Live demo](https://dexter-cnx.github.io/dot_matrix_animated_counter/)
+
 Animated dot-matrix counters for Flutter with:
 
 - controller-driven updates
@@ -111,3 +114,16 @@ The bundled example demonstrates:
 - controller-based updates
 - negative and comma-formatted values
 - each animation style side-by-side
+
+## GitHub Pages
+
+This repository includes a GitHub Actions workflow at [`.github/workflows/github-pages.yml`](/Users/dxtr_m4/develop/mobile_projects/dot_matrix_animated_counter/.github/workflows/github-pages.yml) that builds the `example` app and deploys it to GitHub Pages.
+
+To enable it:
+
+1. Open the repository settings in GitHub.
+2. Go to `Pages`.
+3. Set the source to `GitHub Actions`.
+4. Push to `main` or run the workflow manually.
+
+The published site will be the Flutter example app. For a project site, GitHub Pages will usually be available at `https://<owner>.github.io/<repo>/`. For a user or organization site named `<owner>.github.io`, the base path is `/`.
