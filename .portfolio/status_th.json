@@ -20,7 +20,7 @@
   "links": {
     "repository": "https://github.com/dexter-cnx/dot_matrix_animated_counter",
     "homepage": "https://dexter-cnx.github.io/dot_matrix_animated_counter/",
-    "package": null,
+    "package": "https://pub.dev/packages/dot_matrix_animated_counter",
     "docs": null,
     "demo": "https://dexter-cnx.github.io/dot_matrix_animated_counter/"
   },
