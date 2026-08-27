@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "project": {
+    "title": "dot_matrix_animated_counter",
+    "tagline": "Animated dot-matrix counters for Flutter with controller-driven updates and flexible theming.",
+    "status": "active",
+    "version": "0.2.0"
+  },
+  "summary": {
+    "short": "dot_matrix_animated_counter is a Flutter package for animated dot-matrix numeric counters with controller-based updates, ThemeExtension styling, multiple transition styles, negative values, and grouping support.",
+    "long": "The package supports fadeScale, slide, and flip transitions, configurable digit formatting, zero padding, grouping separators, local or app-wide theming, and a published web demo."
+  },
+  "highlights": [
+    "Controller-driven value updates",
+    "fadeScale, slide, and flip transitions",
+    "ThemeExtension-based styling",
+    "Negative values, zero padding, and grouping"
+  ],
+  "tech": ["Dart", "Flutter"],
+  "links": {
+    "repository": "https://github.com/dexter-cnx/dot_matrix_animated_counter",
+    "homepage": "https://dexter-cnx.github.io/dot_matrix_animated_counter/",
+    "package": "https://pub.dev/packages/dot_matrix_animated_counter",
+    "docs": null,
+    "demo": "https://dexter-cnx.github.io/dot_matrix_animated_counter/"
+  },
+  "updatedAt": "2026-08-27T00:00:00Z"
+}

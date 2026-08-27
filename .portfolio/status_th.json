@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "project": {
+    "title": "dot_matrix_animated_counter",
+    "tagline": "ตัวนับเลขแบบ dot-matrix สำหรับ Flutter ที่มี animation, controller และ theme ปรับแต่งได้",
+    "status": "active",
+    "version": "0.2.0"
+  },
+  "summary": {
+    "short": "dot_matrix_animated_counter เป็นแพ็กเกจ Flutter สำหรับแสดงตัวเลขแบบ dot-matrix พร้อม animation รองรับการควบคุมผ่าน controller, ThemeExtension, หลาย transition, เลขติดลบ และการจัดกลุ่มตัวเลข",
+    "long": "แพ็กเกจรองรับ transition แบบ fadeScale, slide และ flip, กำหนดจำนวนหลักและ zero padding, grouping separator, theme ทั้งระดับแอปและเฉพาะ widget และมี web demo ให้ทดลอง"
+  },
+  "highlights": [
+    "อัปเดตค่าผ่าน controller",
+    "fadeScale, slide และ flip transition",
+    "ThemeExtension-based styling",
+    "รองรับเลขติดลบ zero padding และ grouping"
+  ],
+  "tech": ["Dart", "Flutter"],
+  "links": {
+    "repository": "https://github.com/dexter-cnx/dot_matrix_animated_counter",
+    "homepage": "https://dexter-cnx.github.io/dot_matrix_animated_counter/",
+    "package": "https://pub.dev/packages/dot_matrix_animated_counter",
+    "docs": null,
+    "demo": "https://dexter-cnx.github.io/dot_matrix_animated_counter/"
+  },
+  "updatedAt": "2026-08-27T00:00:00Z"
+}
